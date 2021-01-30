@@ -7,6 +7,9 @@
 ## Introduction
 
 ## Technologies
+- Java Script
+- Techable Machine
+
 
 ## OutPut Demo ScreenShot
 
