@@ -12,14 +12,15 @@
 
 
 ## OutPut Demo ScreenShot
-!.[Ml1 Pic].(https://raw.githubusercontent.com/Raveendra587/ML-level-1/main/Ml1.png)
-!.[Ml2 Pic].(https://raw.githubusercontent.com/Raveendra587/ML-level-1/main/Ml2.png)
+!.[Ml1_Pic].(https://raw.githubusercontent.com/Raveendra587/ML-level-1/main/Ml1.png)
+!.[Ml2_Pic].(https://raw.githubusercontent.com/Raveendra587/ML-level-1/main/Ml2.png)
 
 
 
 ## YouTube Link
 [![ML2_week1](https://img.youtube.com/vi7uD9muoYA2U/0.jpg)](https://www.youtube.com/watch?v=7uD9muoYA2U)
+
 ## Play With Game Here
-[!.[]()])
+
 ## Resources
 
