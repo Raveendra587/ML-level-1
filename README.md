@@ -12,9 +12,10 @@
 
 
 ## OutPut Demo ScreenShot
-!.[Ml1_Pic].(https://raw.githubusercontent.com/Raveendra587/ML-level-1/main/Ml1.png)
-!.[Ml2_Pic].(https://raw.githubusercontent.com/Raveendra587/ML-level-1/main/Ml2.png)
 
+![Screenshot 1](https://raw.githubusercontent.com/Raveendra587/ML-level-1/main/Ml1.png)
+
+![Screenshot 1](https://raw.githubusercontent.com/Raveendra587/ML-level-1/main/Ml2.png)
 
 
 ## YouTube Link
