@@ -20,8 +20,7 @@
 
 ## YouTube Link
 
-[![ML2_week1](https://img.youtube.com/vi7uD9muoYA2U/0.jpg)](https://www.youtube.com/watch?v=7uD9muoYA2U)
-
+[![ML2_week1](https://img.youtube.com/vi/7uD9muoYA2U/0.jpg)](https://www.youtube.com/watch?v=7uD9muoYA2U)
 ## Play With Game Here
 
 ## Resources
