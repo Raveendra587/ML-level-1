@@ -5,6 +5,7 @@
 - 18PA1A0587 - M Raveendra Babu
 
 ## Introduction
+  This is a Simple Snake Game.The Existing Model runs through the keyboard directions but this model runs through voice signals
 
 ## Technologies
 - Java Script
