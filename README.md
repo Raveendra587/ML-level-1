@@ -5,8 +5,9 @@
 - 18PA1A0587 - M Raveendra Babu
 
 ## Introduction
-  This is a Simple Snake Game.The Existing Model runs through the keyboard directions but this model runs through voice signals.
-  when the voice signals i.e left,right,up and down are given to the cloud then the code is generated in the teachable machine.
+  This is a Simple Snake Game.
+  The Existing Model runs through the keyboard directions but this model runs through voice signals.
+  when the voice signals i.e left,right,up and down are given to the cloud then the code is generated in the "TEACHABLE MACHINE".
 
 ## Technologies
 - Java Script
