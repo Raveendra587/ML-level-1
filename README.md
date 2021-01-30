@@ -12,8 +12,8 @@
 
 
 ## OutPut Demo ScreenShot
-!.[Ml1 Pic](https://raw.githubusercontent.com/Raveendra587/ML-level-1/main/Ml1.png)
-!.[Ml2 Pic](https://raw.githubusercontent.com/Raveendra587/ML-level-1/main/Ml2.png)
+!.[Ml1 Pic].(https://raw.githubusercontent.com/Raveendra587/ML-level-1/main/Ml1.png)
+!.[Ml2 Pic].(https://raw.githubusercontent.com/Raveendra587/ML-level-1/main/Ml2.png)
 
 
 
